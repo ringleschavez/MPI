@@ -17,3 +17,10 @@ https://courses.cs.ut.ee/MTAT.08.020/2019_spring/uploads/Main/MPI_and_mpi4py.pdf
 
 ### mmap info sources:
 https://realpython.com/python-mmap/
+
+https://bip.weizmann.ac.il/course/python/PyMOTW/PyMOTW/docs/mmap/index.html
+
+https://pymotw.com/3/mmap/index.html
+
+# IMPORTANT:
+https://bugs.python.org/msg364351
